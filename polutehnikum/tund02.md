@@ -1,12 +1,12 @@
 # Eksperiment
 
-kas codecademist projekti juurde saab?
+kas codecademist/koit.ee-st projekti juurde saab minna?
 
 # Ülesanded
 
 - loome failid, installime VS Code, avame projekti
 - ehitame chati frondi valmis HTML/CSS
-- JSi alustõed
+- JSi alustõed 5 minutiga
 - kuidas ChatGPT-d kasutada tahvlil oleva info analüüsiks.
 - (PAUS)
 - iseseisev töö õppida JavaScripti
