@@ -13,3 +13,25 @@
 Ilmselt pole nad nii palju varem õppinudki. Iseseisev mõte läks natuke rohkem tööle tänu sellele, et käisin iga ühe juures individuaalselt. Kolmandaks tunniks ma juba teadsin mis probleemid neil on ja rääkisin tahvlil etteruttavalt ära, aga muidugi see neile ei jõudnud ikkagi kohale. Eesti klassid said enamasti aru mida teha on vaja, vene klass ikka ei saanud üldse aru. Samas kõigiga oli sama lugu, et oli vaja toore jõuga mõned ülesanded ära teha ja siis juba läks kiiremaks. Kuigi päris lõpuni tegid vähesed täiesti iseseisvalt.
 
 Mida paremini teha, ma arvan et esimene rakendus siiski ei peaks fetchiga olema. Selle süntaks on lihtsalt liiga pikk ja keeruline. Mingi offline rakendus oleks parem.
+
+# Lisa
+
+Abistav JSON mis õpilastele anti:
+
+```
+{
+    "toolkit": "https://codepen.io/kristerv/pen/abgeeVO?editors=1012",
+    "chat-app": {
+        "server": "https://kool.krister.ee/chat/TA24B",
+        "v0.1": "https://codepen.io/kristerv/pen/abgeeOe",
+        "v0.2": "https://codepen.io/kristerv/pen/QWXeeyr"
+    },
+    "tasks": [
+        "[x] Design UI",
+        "[x] Fetch messages from server",
+        "[x] Extract ONE message from data",
+        "[x] Write ONE message to page",
+        "[x] Make sure message is designed"
+    ]
+}
+```
