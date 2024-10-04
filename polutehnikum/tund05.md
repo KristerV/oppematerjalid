@@ -26,6 +26,7 @@ Rääkisin punktid läbi
 - hindan JS mitte disaini
 - võib teha paaris, kui tahad, aga mitte kolmekesi
 - tunni lõpuks peab kood olema GitHub.com'is nähtav
+- ChatGPT copy-paste saab kahe, aga temaga suhtlemine on julgustatud.
 
 Jätsin tahvlile notepadis
 - Installi GitHub Desktop
